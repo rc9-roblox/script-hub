@@ -1,4 +1,3 @@
-Дмїтрі уткін, [21.12.2024 1:32]
 local Me = game.Players.LocalPlayer 
 bin = Instance.new("HopperBin") 
 bin.Name = "Fap (Q and E)" 
@@ -124,7 +123,6 @@ function DoTheFap(Motherload)
                 Sound.Volume = 5 
                 Sound.Pitch = math.random(85,105)/100
 
-Дмїтрі уткін, [21.12.2024 1:32]
 ch = math.random(85,105)/100 
                 Sound.SoundId = "rbxasset://sounds/uuhhh.wav" 
                 local Num = 1 
@@ -217,7 +215,6 @@ function Equip()
         joint.Part1 = LA 
         joint.C0 = CFrame.new(-0.8,-0.1,-0.3) *
 
-Дмїтрі уткін, [21.12.2024 1:32]
 CFrame.Angles(0.3,0,math.pi/4.4) 
         Joint2 = joint 
   
